@@ -1,0 +1,11 @@
+2026/05/05-22:41:32.837 9e6cc Reusing MANIFEST /home/mifugi/it/parser_service/data/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/05/05-22:41:32.843 9e6cc Recovering log #3
+2026/05/05-22:41:32.844 9e6cc Level-0 table #3: started
+2026/05/05-22:41:32.924 9e6cc Level-0 table #3: 57149 bytes OK
+2026/05/05-22:41:33.108 9e6cc Delete type=0 #3
+2026/05/05-22:42:33.131 9e6cc Level-0 table #6: started
+2026/05/05-22:42:33.224 9e6cc Level-0 table #6: 58789 bytes OK
+2026/05/05-22:42:33.261 9e6cc Delete type=0 #4
+2026/05/05-22:45:34.056 9e6cf Level-0 table #8: started
+2026/05/05-22:45:34.170 9e6cf Level-0 table #8: 59627 bytes OK
+2026/05/05-22:45:34.209 9e6cf Delete type=0 #5

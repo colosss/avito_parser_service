@@ -1,0 +1,13 @@
+2026/05/05-22:44:06.875 9e69d Reusing MANIFEST /home/mifugi/it/parser_service/data/browser_profile/Default/IndexedDB/https_www.avito.ru_0.indexeddb.leveldb/MANIFEST-000001
+2026/05/05-22:44:06.876 9e69d Recovering log #7
+2026/05/05-22:44:06.876 9e69d Reusing old log /home/mifugi/it/parser_service/data/browser_profile/Default/IndexedDB/https_www.avito.ru_0.indexeddb.leveldb/000007.log 
+2026/05/05-22:44:07.204 9e69d Level-0 table #11: started
+2026/05/05-22:44:07.228 9e69d Level-0 table #11: 1176 bytes OK
+2026/05/05-22:44:07.256 9e69d Delete type=0 #7
+2026/05/05-22:44:07.257 9e69d Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at '\x00\x04\x00\x00\x05' @ 97 : 1
+2026/05/05-22:44:07.257 9e69d Compacting 1@0 + 1@1 files
+2026/05/05-22:44:07.287 9e69d Generated table #12@0: 38 keys, 1213 bytes
+2026/05/05-22:44:07.287 9e69d Compacted 1@0 + 1@1 files => 1213 bytes
+2026/05/05-22:44:07.314 9e69d compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/05-22:44:07.314 9e69d Delete type=2 #11
+2026/05/05-22:44:07.316 9e69d Manual compaction at level-0 from '\x00\x04\x00\x00\x05' @ 97 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
